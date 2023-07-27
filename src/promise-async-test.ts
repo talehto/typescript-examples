@@ -1,3 +1,6 @@
+// This test demonstrates sync and async 
+// function calls.
+
 function resolveAfter2Seconds() {
   return new Promise(resolve => {
     setTimeout(() => {
