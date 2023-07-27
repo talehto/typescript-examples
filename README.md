@@ -11,6 +11,14 @@ $ npm install -D typescript concurrently nodemon @types/express @types/node
 ```
 
 # Test execution
+
+## promise-async-test
 ```
-$ node async-test.ts
+$ node promise-async-test.ts
+```
+
+## inheritance-test
+```
+$ tsc inheritance-test.ts
+$ tsc inheritance-test.ts
 ```
